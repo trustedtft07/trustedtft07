@@ -1,5 +1,5 @@
 # 💫 About Me:
-Informatics Engineering undergraduate at Universitas Sriwijaya with a strong foundation in full-stack web, mobile, and game development (React, SvelteKit, Laravel, Flutter, Godot, Unity, Unreal Engine). Experienced in building end-to-end applications—from serverless edge services on Cloudflare Workers and RESTful APIs to cross-platform mobile apps—as well as shipping playable games across multiple game jams (Global Game Jam & Live2Dev Gamejam). Actively involved in Himpunan Mahasiswa Informatika (HMIF) Universitas Sriwijaya, with a passion for crafting reliable software that ships.
+Informatics Engineering undergraduate at Universitas Sriwijaya with a strong foundation in full-stack web, mobile, and game development (React, SvelteKit, Laravel, Flutter, Godot, Unity, Unreal Engine). Experienced in building end-to-end applications—from serverless edge services on Cloudflare Workers and RESTful APIs to cross-platform mobile apps—as well as shipping playable games across multiple game jams (Global Game Jam & Live2Dev Gamejam). with a passion for crafting reliable software that ships.
 
 
 ## 🌐 Socials:
